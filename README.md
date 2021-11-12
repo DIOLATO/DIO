@@ -6,7 +6,7 @@ Greetings to you!
 Everyone who tried our sweets was delighted with such a taste and, of course, usefulness. During our activity, we got acquainted with a large number of like-minded manufacturers and just with real connoisseurs and lovers of chocolate from all over the world, we exchanged messages about the conditions of doing business in different countries. And it turned out to be not so easy, we did not find such a cool, common and convenient platform for cooperation, exchange of experience and purchase of equipment, raw materials for making chocolate.
 A very large-scale idea arose, I told myself that I could do even more, I could unite all those who are so interested in the topic of chocolate. And I decided to make a decentralized platform-application.
 What is DIOLATO?
-DIOLATOR is a mobile application (STARTUP) that unites manufacturers, consumers and suppliers of chocolate products on a global level.
+DIOLATO is a mobile application (STARTUP) that unites manufacturers, consumers and suppliers of chocolate products on a global level.
 
 The DIOLATO mobile application consists of three participants: supplier, manufacturer and consumer.
 
