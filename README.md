@@ -1,30 +1,28 @@
-Приветствую вас!
+Greetings to you!
 
-          Я  Нерсесян Гарник, основатель DIOLATO!
+          I am Nersesyan Garnik, founder of DIOLATO!
+ We were engaged in the family production of chocolate and chocolate products, made delicious, natural chocolate products.
 
- Мы занимались семейным производством шоколада и шоколадной     продукции, изготавливали вкуснейшие, натуральные шоколадные     изделия.
+Everyone who tried our sweets was delighted with such a taste and, of course, usefulness. During our activity, we got acquainted with a large number of like-minded manufacturers and just with real connoisseurs and lovers of chocolate from all over the world, we exchanged messages about the conditions of doing business in different countries. And it turned out to be not so easy, we did not find such a cool, common and convenient platform for cooperation, exchange of experience and purchase of equipment, raw materials for making chocolate.
+A very large-scale idea arose, I told myself that I could do even more, I could unite all those who are so interested in the topic of chocolate. And I decided to make a decentralized platform-application.
+What is DIOLATOR?
+DIOLATOR is a mobile application (STARTUP) that unites manufacturers, consumers and suppliers of chocolate products on a global level.
 
-  Все, кто пробовал наши сладости, были в восторге от такого вкуса и, конечно, полезности. Во время нашей деятельности мы познакомились с большим количеством единомышленников-производителей и просто с настоящими ценителями и любителями шоколада со всего мира, мы обменивались сообщениями про условия ведения бизнеса в разных странах. И это оказалось не так просто, такой классной, общей и удобной площадки для сотрудничества, обмена опытом и покупки оборудования, сырья для изготовления шоколада мы не нашли.
+The DIOLATO mobile application consists of three participants: supplier, manufacturer and consumer.
 
-Возникла очень масштабная идея, я сказал себе, что я могу еще больше, могу объединить всех тех, кому так интересна тема шоколада. И я решил сделать децентрализованную площадку-приложение. 
-Что такое DIOLATO ?
-DIOLATO - это мобильное приложение (СТАРТАП), объединяющее производителей, потребителей и поставщиков шоколадной продукции на мировом уровне.
+The task of the DIOLATO mobile application
+is the opportunity to order delicious chocolate or chocolate products from anywhere in the world.
+Project financing?
+The project requires financing, in order to launch the project as soon as possible, our team and I came to a consensus that we need to issue our own cryptocurrency – a Token (coin).
 
-Мобильное приложение DIOLATO - это три участника: поставщик, производитель и потребитель.
+DIOLATO releases 45.000.000 tokens DIO (DIOLATOCOIN)  
 
-Задача мобильного приложения DIOLATO,-
-это возможность с любой точки мира заказать вкуснейший шоколад или шоколадную продукцию.
-Финансирование проекта? 
-         Для проекта требуется финансирование , для того, что бы запустить проект поскорее, мы с нашей командой пришли к единому мнению, что нужно выпустить свою криптовалюту – Токен (монету). 
-
-DIOLATO выпускает 45.000.000 токенов DIO (DIOLATOCOIN)  
-
-DIOLATOCOIN – это виртуальная валюта, она создана на блойкчейн площадке  Binance Smart Chain BEP 20 .
-Информация о токене: 
- Символ: DIO 
- Имя токена: DIOLATOCOIN ​ 
- Цена DIOLATOCOIN: 1 DIO = 0,025 $
- Общий объём: 45.000.000 DIO (DIOLATOCOIN)
- Адрес контракта:   0x4D8A443fd063dE6C1651b185186Ae87524C639ab
+DIOLATOCOIN – this is a virtual currency, it was created on a blockchain platform Binance Smart Chain BEP 20 .
+Information about the token: 
+ Symbol: DIO 
+ Token Name: DIOLATOCOIN  
+ Price DIOLATOCOIN: 1 DIO = 0,015 $
+ Total volume: 45.000.000 DIO (DIOLATOCOIN)
+ Contract address:   0x4D8A443fd063dE6C1651b185186Ae87524C639ab
  https://bscscan.com/token/0x4D8A443fd063dE6C1651b185186Ae87524C639ab
  https://www.diolato.com/
